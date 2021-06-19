@@ -33,10 +33,10 @@ class Database extends \CodeIgniter\Database\Config
 	 */
 	public $default = [
 		'DSN'      => '',
-		'hostname' => 'sql307.epizy.com',
-		'username' => 'epiz_28921585',
-		'password' => 'KbZVxSmLuRdV7P',
-		'database' => 'epiz_28921585_websekolahmtp',
+		'hostname' => 'localhost',
+		'username' => 'id17086396_dbsdorawa',
+		'password' => '0XP%S_5Nfo{gW-G}',
+		'database' => 'id17086396_sdorawa',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
 		'pConnect' => false,
