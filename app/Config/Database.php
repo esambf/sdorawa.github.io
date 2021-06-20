@@ -33,7 +33,7 @@ class Database extends \CodeIgniter\Database\Config
 	 */
 	public $default = [
 		'DSN'      => '',
-		'hostname' => 'localhosthalo',
+		'hostname' => 'localhost',
 		'username' => 'root',
 		'password' => '',
 		'database' => 'webskolahmtp',
