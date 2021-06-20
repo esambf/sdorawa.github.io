@@ -33,10 +33,10 @@ class Database extends \CodeIgniter\Database\Config
 	 */
 	public $default = [
 		'DSN'      => '',
-		'hostname' => 'localhost',
-		'username' => 'id17086396_dbsdorawa',
-		'password' => '0XP%S_5Nfo{gW-G}',
-		'database' => 'id17086396_sdorawa',
+		'hostname' => 'localhosthalo',
+		'username' => 'root',
+		'password' => '',
+		'database' => 'webskolahmtp',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
 		'pConnect' => false,
